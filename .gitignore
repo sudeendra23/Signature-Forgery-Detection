@@ -1,0 +1,5 @@
+# Ignore signatures folder
+signatures/
+
+# Ignore dataset folder
+dataset/
